@@ -23,7 +23,7 @@
 /* This is a Proxy Server that displays the connection parameters from a
  * client and then saves any data streamed to the client.
  */
-
+#define RTMPDUMP_VERSION		2.4
 #include <stdlib.h>
 #ifdef __MINGW_H
 #include <unistd.h>

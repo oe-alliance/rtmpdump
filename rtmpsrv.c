@@ -23,7 +23,7 @@
 /* This is just a stub for an RTMP server. It doesn't do anything
  * beyond obtaining the connection parameters from the client.
  */
-
+#define RTMPDUMP_VERSION		2.4
 #include <stdlib.h>
 #ifdef __MINGW_H
 #include <unistd.h>
