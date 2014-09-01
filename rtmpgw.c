@@ -19,7 +19,7 @@
  *  http://www.gnu.org/copyleft/gpl.html
  *
  */
-#define RTMPDUMP_VERSION		2.4
+#define RTMPDUMP_VERSION		"v2.4"
 #include <stdlib.h>
 #include <string.h>
 #include <math.h>
