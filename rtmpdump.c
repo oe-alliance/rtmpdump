@@ -19,7 +19,7 @@
  *  http://www.gnu.org/copyleft/gpl.html
  *
  */
-
+#define RTMPDUMP_VERSION		2.4
 #define _FILE_OFFSET_BITS	64
 
 #include <stdlib.h>
